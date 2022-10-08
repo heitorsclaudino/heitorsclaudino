@@ -8,8 +8,10 @@ Atualmente tenho estudado HTML/CSS, JavaScript e React para front. PHP, NodeJS e
 
 
 
+Estou em busca de um emprego na área, onde eu posso aplicar meus conhecimentos e adquirir mais conhecimento.
 
-Com meu desenvolvimento pessoal, pretendo conseguir um emprego e poder aplicar meus conhecimentos no mundo real.
+
+
 
 Mídias sociais e contato:
 instagram: @heitordasilvaclaudino |
