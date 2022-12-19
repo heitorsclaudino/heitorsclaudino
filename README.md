@@ -4,7 +4,7 @@ Tenho foco em aprender as tecnologias para o desenvolvimento web/mobile front-en
 
 
 
-Atualmente tenho estudado HTML/CSS, JavaScript e React para front. PHP, NodeJS e Python para back-end e MySQL como banco de dados principal.
+Atualmente tenho estudado HTML/CSS, JavaScript e React para front. NodeJS e PHP para back-end e MySQL como banco de dados principal.
 
 
 
