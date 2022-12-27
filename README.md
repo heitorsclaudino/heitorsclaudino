@@ -1,4 +1,4 @@
-# **Olá mundo!** :wave:
+# **Olá mundo!** :sunny: :earth_americas:
 ***
 Meu nome é **Heitor** e sou um jovem estudante de TI. Acredito ter aprendido muito apesar do tempo recente na área (cerca de um ano).
 
