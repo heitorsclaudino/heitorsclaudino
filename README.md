@@ -1,6 +1,7 @@
-## **Olá mundo!** 
+### **Olá mundo!** 
 ***
 Me chamo **Heitor**, tenho 18 e sou um jovem estudante de TI. Sinto que tenho aprendido muito apesar do tempo recente na área de Tecnologia da Informação (cerca de um ano).
+
 Atualmente, meus estudos são focados no front-end, mas também conheço partes do back e banco de dados
 ***
 ## **Tecnologias**
