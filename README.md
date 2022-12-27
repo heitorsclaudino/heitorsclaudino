@@ -9,7 +9,7 @@ Atualmente tenho estudado __*HTML/CSS*__, __*JavaScript*__ e __*React*__ para fr
 Estou em busca de um emprego na área, onde eu possa aplicar meus conhecimentos e me tornar um profissional cada vez mais capacitado!
 ***
 ## __*Mídias sociais e contato:*__ :mag_right: :speech_balloon:
-[instagram](https://instagram.com/heitordasilvaclaudino/) |
+[Instagram](https://instagram.com/heitordasilvaclaudino/) |
 e-mail: heitorsclaudino04@gmail.com |
 telefone celular: (11) 99256-1950 | 
 [linkedin](https://www.linkedin.com/in/heitor-da-silva-claudino/)
