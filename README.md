@@ -1,4 +1,4 @@
-# **Olá mundo!** :sunny: :earth_americas:
+# **Olá mundo!** :earth_americas:
 Meu nome é **Heitor** e sou um jovem estudante de TI. Acredito ter aprendido muito apesar do tempo recente na área (cerca de um ano).
 
 Atualmente, meus estudos são focados no front-end, mas também tenho a base do back-end e banco de dados.
