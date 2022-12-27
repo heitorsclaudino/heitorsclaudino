@@ -1,9 +1,7 @@
 # **Olá mundo!** :sunny: :earth_americas:
-***
 Meu nome é **Heitor** e sou um jovem estudante de TI. Acredito ter aprendido muito apesar do tempo recente na área (cerca de um ano).
 
 Atualmente, meus estudos são focados no front-end, mas também tenho a base do back-end e banco de dados.
-
 ***
 ## __*Tecnologias*__ :computer: :electric_plug:
 Atualmente tenho estudado __*HTML/CSS*__, __*JavaScript*__ e __*React*__ para front. __*PHP*__ para back-end e __*MySQL*__ como banco de dados principal.
